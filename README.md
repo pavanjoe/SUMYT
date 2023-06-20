@@ -1,6 +1,7 @@
 # SUMYT
 room project
 Test
+sayuj is a dumbass
 ## TO PUSH THE CHANGES TO THE REPOSITORY
 git status - To check the status of files
 git add . - To stage the change
