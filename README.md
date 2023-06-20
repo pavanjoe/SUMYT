@@ -1,7 +1,5 @@
 # SUMYT
 room project
-Test
-sayuj is the owner
 ## TO PUSH THE CHANGES TO THE REPOSITORY
 git status - To check the status of files
 git add . - To stage the change
@@ -11,3 +9,6 @@ git push - To push the change to the repository
 ## TO SYNC ALL CHNANGES
 git fetch - To fetch all the changes made to the repository
 git pull - To apply the changes locally 
+
+## Fork Rules
+
